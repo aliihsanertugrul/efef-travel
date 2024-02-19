@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Transportation",
+      "title2": "To anywhere",
+      "title3": "in Türkiye",
+      "btn1":"See More",
+      "btn2":"Get Price"
+    },
+    {
+      "id": 2,
+      "title": "City Tours",
+      "title2": "within",
+      "title3": "Istanbul",
+      "btn1":"See More",
+      "btn2":"Get Price"
+    },
+    {
+      "id": 3,
+      "title": "Going to Tourist",
+      "title2": "Attractions in",
+      "title3": "Nearby cities",
+      "btn1":"See More",
+      "btn2":"Get Price"
+    }
+  ]

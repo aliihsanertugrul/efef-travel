@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "icon":"fa-crown",
+        "title":"VIP Tourist Transportation",
+        "text":"VIP tourist transportation service with exclusive comfortable vehicles and experienced drivers. Private guiding can also be provided in tourist areas."
+    },
+    {
+        "id":2,
+        "icon":"fa-truck-plane",
+        "title":"Airport Transfers",
+        "text":"VIP transfers from airports to hotels or tourist destinations. High standards of comfort and safety are ensured."
+    },
+    {
+        "id":3,
+        "icon":"fa-id-card",
+        "title":"Private Driver Service",
+        "text":"Providing private drivers for tourists, offering comfortable and secure transportation to desired locations."
+    },
+    {
+        "id":4,
+        "icon":"fa-car-on",
+        "title":"VIP Car Rental",
+        "text":"Luxurious and comfortable car rental service for VIP tourists. Available for use for the desired duration."
+    },
+    {
+        "id":5,
+        "icon":"fa-suitcase-rolling",
+        "title":"Touristic Excursions and Tours",
+        "text":"Specially organized tourist excursions and tours for VIP tourists. Unforgettable experiences with professional guides."
+    },
+    {
+        "id":6,
+        "icon":"fa-hotel",
+        "title":"VIP Accommodation Support",
+        "text":"Arranging and booking exclusive accommodations for VIP tourists. High standards of comfort and service guaranteed."
+    }
+]
+ 
